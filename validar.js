@@ -23,9 +23,8 @@ function validar(form) {
         alert("Por favor, seleccione un deporte favorito.");
         return false;
     }
-
-    // Si todo es válido 
-    alert("Datos subidos correctamente"); // Muestra un mensaje de éxito
+    
+    alert("Datos subidos correctamente");
     return true;
 }
 
